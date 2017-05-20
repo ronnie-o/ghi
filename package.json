@@ -1,0 +1,29 @@
+{
+  "name": "ghi",
+  "version": "1.0.0",
+  "description": "github issue util",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnie-o/ghi.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "issue",
+    "milestone"
+  ],
+  "author": "ronnie-o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnie-o/ghi/issues"
+  },
+  "homepage": "https://github.com/ronnie-o/ghi#readme"
+}

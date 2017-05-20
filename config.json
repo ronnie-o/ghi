@@ -1,0 +1,6 @@
+{
+  "API_BASE": "https://api.github.com",
+  "ACCESS_TOKEN": ":token", //https://github.com/settings/tokens
+  "ORG": ":org",
+  "REPO": ":repo"
+}
